@@ -9,6 +9,8 @@ child_type: docs
 
 # Advanced
 
+test advanced
+
 Get into the **nitty gritty** with these advanced topics.
 
 Loving this way to store simple website (and have a github repository for free)
