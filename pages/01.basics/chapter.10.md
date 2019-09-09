@@ -10,4 +10,4 @@ child_type: docs
 
 # Basics
 
-Discover the **basic** principles. very cool :) 9 septembre
+Discover the **basic** principles. very cool :) 9 septembre 2019
